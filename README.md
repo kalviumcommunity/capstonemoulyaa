@@ -110,9 +110,3 @@ This project is inspired by the Pensieve from Harry Potter, designed to be a dig
 
 Backend deployment link  ---   https://capstonemoulyaa-2.onrender.com 
 
-
-
-
-
-
-
