@@ -109,3 +109,8 @@ This project is inspired by the Pensieve from Harry Potter, designed to be a dig
 💬 Special thanks to Kalvium mentors and peers
 
 Backend deployment link  ---   https://capstonemoulyaa-2.onrender.com 
+
+
+Frontend deployment link  ---   http://rainbow-eclair-376b0e.netlify.app/
+
+
